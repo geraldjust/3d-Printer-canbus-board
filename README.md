@@ -19,3 +19,7 @@ As for code it wont be avaiable just let. Currently having these boards made and
 I feel this will be super useful for multi head or tool changers in the future. 
 
 
+STM32F042C6T7 (Can be programed via USB or SWD), package is a LQFP48 so can be interchanged with other STM32 chips that also have canbus
+STM32F042F4P6 (Much cheaper board , programmed via SWD)
+ 
+ More Baords to come!
